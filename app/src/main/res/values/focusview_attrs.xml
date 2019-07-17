@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FocusViewZh">
+        <attr name="color_focus" format="color"/>
+        <attr name="color_unfocus" format="color"/>
+        <attr name="text_focus" format="string"/>
+        <attr name="text_unfocus" format="string"/>
+        <attr name="drawable_progressive" format="reference"/>
+    </declare-styleable>
+
+</resources>
